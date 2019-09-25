@@ -1,11 +1,10 @@
 package main
 
 import (
-	"fmt"
+	"github.com/echenim/kompreshawn/algorithms/arithementic"
 )
 
 func main() {
-
-	fmt.Print("hello")
+	arithementic.Encoding()
 
 }
